@@ -6,7 +6,7 @@
 
 
 # Adding logic
- if (false)
+ if (True)
  {
     do this
  }
